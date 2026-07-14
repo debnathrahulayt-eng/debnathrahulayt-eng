@@ -49,14 +49,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
 </p>
 
-<p align="center">
-  <a href="https://github.com/debnathrahulayt-eng">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debnathrahulayt-eng&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
