@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=debnathrahulayt-eng">
-    <img src="https://komarev.com/ghpvc/?username=debnathrahulayt-eng&label=Profile%20views&color=00FFFF&style=flat-square" alt="debnathrahulayt-eng's profile views" />
   </a>
 </p>
 
